@@ -4,7 +4,7 @@ This repository contains assessment data, source code, and analyses for The Carp
 
 [The Carpentries](https://carpentries.org) teach core computational and data skills to researchers. We also train instructors to teach workshops on computational skills. We value a culture of assessment, and consistently assess learner outcomes from workshops (short term),  programmatic efforts (instructor training), and the long-term impact we have on learners.
 
-Assessment projects are led by Kari L. Jordan, Director of Assessment and Community Equity. The data, code and reports in this repository are publicly available under the CC-BY 4.0 license. The projects in this repository are open for comments/feedback and collaboration.
+Assessment projects are led by The Carpentries Instructor Training Team. The data, code and reports in this repository are publicly available under the CC-BY 4.0 license. The projects in this repository are open for comments/feedback and collaboration.
 
 # Content
 The repository currently contains assessment of the following:
@@ -18,16 +18,18 @@ Additionally, the repository contains minutes from the [assessment-network](http
 
 The published reports are listed below
 
-+ __Software Carpentry__ 
+## Software Carpentry
 
   + [2017-July](https://carpentries.github.io/assessment/learner-assessment/archives/2017/code/2017-July-post.html) Post-Workshop Survey Report  
 
-+ __Data Carpentry__
-  + [2018-January](https://carpentries.github.io/assessment/learner-assessment/archives/2018/code/2018-January-post.html) Post-Workshop Survey Report  
+## Data Carpentry
+
++ [2018-January](https://carpentries.github.io/assessment/learner-assessment/archives/2018/code/2018-January-post.html) Post-Workshop Survey Report  
   + [2017-December](https://carpentries.github.io/assessment/learner-assessment/archives/2017/code/2017-December-post.html) Post-Workshop Survey Report  
   + [2017-September](https://carpentries.github.io/assessment/learner-assessment/archives/2017/code/2017-September-archived-analysis.html) Archived Pre and Post-Workshop Summary Plots.
   
-+ __Carpentries Long-Term Survey__
+## Carpentries Long-Term Survey
+
   + [2020-April](https://carpentries.github.io/assessment/learner-assessment/reports/2020-01-long-term-report.html) (DOI: [10.5281/zenodo.3753528](https://doi.org/10.5281/zenodo.3753528))
   + [2018-January](https://carpentries.github.io/assessment/learner-assessment/archives/2018/code/2018_January_long_term_report.html) Report
   + [2017-October](https://carpentries.github.io/assessment/learner-assessment/archives/2017/code/longtermreport_October2017.html) Report
